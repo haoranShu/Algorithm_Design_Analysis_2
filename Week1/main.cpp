@@ -13,6 +13,8 @@
 #include <climits>
 #include <algorithm>
 
+
+//Question 2
 #include "minheap.h"
 
 typedef struct vertex{
@@ -97,7 +99,7 @@ int main() {
     return 0;
 }
 
-
+//Question 1
 /*
 void sortWeight(vector<double>& sameScore, vector<double> weight){
     int length = int(sameScore.size());
