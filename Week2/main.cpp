@@ -13,6 +13,7 @@
 #include <set>
 #include <cmath>
 
+//Question 3
 #include "union-find.h"
 
 typedef struct hashtable{
@@ -357,6 +358,8 @@ int main(){
     return 0;
 }
  */
+
+//Question 2
 /*
 #include "union-find.h"
 #include "hashtable.h"
@@ -519,8 +522,8 @@ int main(){
  */
 
 
-/* Question 1
- 
+// Question 1
+/*
 #include <iostream>
 #include <fstream>
 #include <vector>
